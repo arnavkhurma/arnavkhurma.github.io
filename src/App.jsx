@@ -17,7 +17,7 @@ function App() {
         </div>
         <div className="card__content text-center mt-0">
           <div className="flex items-center justify-center">
-            <img src="pp.jpeg" alt="Arnav Khurma" className="rounded-full w-16 h-16 mr-4" />
+            <img src="pp.jpg" alt="Arnav Khurma" className="rounded-full w-16 h-16 mr-4" />
             <div className="text-left">
               <h1 className="text-3xl font-bold">Arnav Khurma</h1>
               <h2 className="text-xl text-gray-700">Computer Science ∩ Mathematics @ Virginia Tech | Quantitative Researcher @ COINS</h2>
