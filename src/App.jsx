@@ -95,7 +95,7 @@ function App() {
               <a href="https://www.linkedin.com/in/arnav-khurma" className="bg-gray-300 text-black px-4 py-2 rounded-md hover:bg-gray-900">
                 LinkedIn
               </a>
-              <a href="https://github.com/arnavkhurma" className="bg-gray-300 text-black px-4 py-2 rounded-md hover:bg-gray-900 text-white">
+              <a href="https://github.com/arnavkhurma" className="bg-gray-300 text-black px-4 py-2 rounded-md hover:bg-gray-900">
                 GitHub
               </a>
             </div>
